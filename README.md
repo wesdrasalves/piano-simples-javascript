@@ -11,4 +11,4 @@ Foi aplicado algumas técnicas e recursos bem legais como:
 Tutorial no Youtube no link: 
 https://youtu.be/IRdZqdswftY
 
-![Miniatura do video tutorial.](https://github.com/wesdrasalves/piano-simples-javascript/blob/main/miniatura-sinal.png?raw=true)
+![Miniatura do video tutorial.](https://github.com/wesdrasalves/piano-simples-javascript/blob/master/miniatura-sinal.png?raw=true)
